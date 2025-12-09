@@ -1,5 +1,5 @@
 // Quantidade de números da rifa
-const totalNumeros = 50;
+const totalNumeros = 100;
 
 // Números já escolhidos (pode conectar depois num banco)
 let numerosOcupados = [];
